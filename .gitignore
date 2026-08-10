@@ -4,3 +4,4 @@ __pycache__/
 ais_data/
 *.jsonl
 .streamlit/
+.vscode/
