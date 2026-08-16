@@ -49,6 +49,8 @@ Beyond the technical skills - this project improved not only my knowledge of dif
 <!-- Demo video -->
 # Demo Video
 
+[![Youtube Video](https://imgur.com/RoYjJxE.png)](https://youtu.be/cj7k67neHYM?si=MtGJvRHResDTCitP)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [Python-url]:       https://www.python.org/
